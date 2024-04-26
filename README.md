@@ -177,5 +177,29 @@ if __name__ == "__main__":
 - Terakhir Jika pengguna menekan `Ctrl+C`, maka program akan berhenti dan socket klien ditutup menggunakan `client_socket.close()`.
 
 <br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&repeat=false&random=false&width=435&lines=DOCUMENTATION+%3A+SERVER" alt="Typing SVG" /></a>
+![server](https://github.com/KanonFueee334/tubes-progjar/assets/147039752/536ff991-388f-4252-b831-66cc0bd4cd0d)
 
+<br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&repeat=false&random=false&width=435&lines=DOCUMENTATION+%3A+CLIENTS" alt="Typing SVG" /></a>
+![client1](https://github.com/KanonFueee334/tubes-progjar/assets/147039752/b5bb0837-40e9-49d4-9a43-59f55ab9106a)
+<br>
+![client2](https://github.com/KanonFueee334/tubes-progjar/assets/147039752/17546754-16ef-4963-9918-720575ffebb8)
+<br>
+![client3](https://github.com/KanonFueee334/tubes-progjar/assets/147039752/634d3941-9468-43a0-a2c4-1cfb27758144)
+<br>
+![client4](https://github.com/KanonFueee334/tubes-progjar/assets/147039752/7fb6d79a-cfed-4760-8edf-dcd9c2a9fdd8)
+<br>
+![client5](https://github.com/KanonFueee334/tubes-progjar/assets/147039752/0e53ddf5-091f-4cb2-883d-3ca42981f0c4)
+<br>
+![client6](https://github.com/KanonFueee334/tubes-progjar/assets/147039752/c152d28f-004c-4667-9efe-9d90c3934b5e)
+<br>
+![client7](https://github.com/KanonFueee334/tubes-progjar/assets/147039752/0df47b10-d06e-45b8-b6b0-80a0bb654c91)
+<br>
+![client8](https://github.com/KanonFueee334/tubes-progjar/assets/147039752/86bfb305-be65-4c9d-accb-5a3d3b525d80)
+<br>
+![client9](https://github.com/KanonFueee334/tubes-progjar/assets/147039752/f8d2c0fc-a02a-4f2d-86e6-d787d86b619f)
+<br>
+![client10](https://github.com/KanonFueee334/tubes-progjar/assets/147039752/20466a20-7849-4c79-8c78-8f5b72b1f66e)
+<br>
         
