@@ -2,7 +2,7 @@ import socket
 import random
 
 SERVER_IP = "127.0.0.1"
-SERVER_PORT = 12345
+SERVER_PORT = 8080
 BUFFER_SIZE = 1024
 COLORS = ["red", "green", "blue", "yellow", "pink", "purple", "brown", "cyan", "maroon"]
 
